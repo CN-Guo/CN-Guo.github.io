@@ -1,0 +1,53 @@
+</body></html>
+------MultipartBoundary--WzzbKhbjZ0S3Gj8KP3QVKpNeTsORsb7HhmKQzF95Uu----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://zgmz.github.io/beginPageCss1.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; border: 0px; }
+
+body { background-color: rgb(239, 238, 238); user-select: none; }
+
+.backgroundBox1 { background-color: inherit; width: 600px; height: 400px; position: absolute; left: 50%; margin-left: -300px; top: 50%; margin-top: -200px; }
+
+.backgroundBox2 { background-color: inherit; width: inherit; height: inherit; position: relative; }
+
+#backgroundFormStyle { position: relative; height: 20%; width: inherit; }
+
+#searchForm { position: absolute; width: 500px; height: 40px; top: 50%; margin-top: -20px; left: 50%; margin-left: -250px; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.2) 12px 12px 20px, rgb(255, 255, 255) -12px -12px 20px; }
+
+#searchInput { width: 90%; height: inherit; margin-left: 20px; background-color: inherit; outline: none; }
+
+#confirmInput { height: 20px; width: 20px; background-color: white; position: absolute; right: 10px; top: 50%; margin-top: -10px; border-radius: 50%; border-color: black; border-width: thick; border-style: solid; outline: none; }
+
+#confirmInput:hover { cursor: pointer; }
+
+.iconBackBoxAll { position: absolute; left: 50%; margin-left: -240px; bottom: 0px; width: 480px; height: 70%; }
+
+.iconBackBoxAll > a { background-color: inherit; position: relative; float: left; width: 80px; height: 80px; margin: 20px; border-radius: 20%; box-shadow: rgba(0, 0, 0, 0.2) 12px 12px 20px, rgb(255, 255, 255) -12px -12px 20px; cursor: pointer; transition: all 0.2s ease 0s; }
+
+.iconBackBoxAll > a img { position: absolute; width: 46px; height: 46px; top: 50%; margin-top: -30px; left: 50%; margin-left: -23px; }
+
+.iconBackBox > div { position: absolute; width: 60px; bottom: 5px; left: 50%; margin-left: -30px; text-align: center; }
+
+.iconBackBox > div p { color: rgb(107, 107, 107); font-size: 12px; }
+
+.iconBackBoxAll > a:hover { box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px, rgb(255, 255, 255) 0px 0px 0px, rgba(0, 0, 0, 0.2) 12px 12px 20px inset, rgb(255, 255, 255) -12px -12px 20px inset; }
+
+.iconBackBoxAll > a:active { box-shadow: rgba(0, 0, 0, 0.2) 10px 10px 30px inset, rgb(255, 255, 255) -10px -10px 30px inset; }
+
+.setButtonBox { position: fixed; right: 100px; bottom: 50px; }
+
+.setButtonBox button { width: 40px; height: 40px; margin: 15px; border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.2) 12px 12px 20px, rgb(255, 255, 255) -12px -12px 20px; cursor: pointer; outline: none; transition: all 0.2s ease 0s; }
+
+#addBut { background-image: url("icon/addButton.png"); background-position: center center; background-repeat: no-repeat; background-size: contain; }
+
+.setButtonBox button:hover { box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px, rgb(255, 255, 255) 0px 0px 0px, rgba(0, 0, 0, 0.2) 12px 12px 20px inset, rgb(255, 255, 255) -12px -12px 20px inset; }
+
+#deleteBut { background-image: url("icon/delete.png"); background-position: center center; background-repeat: no-repeat; background-size: contain; }
+------MultipartBoundary--WzzbKhbjZ0S3Gj8KP3QVKpNeTsORsb7HhmKQzF95Uu----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://zgmz.github.io/bilibili.png
